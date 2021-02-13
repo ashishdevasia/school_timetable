@@ -1,5 +1,0 @@
-10,English,Maths,Computer,Physics,Biology,Social
-9,English,Maths,Computer,Physics,Social,Biology
-8,English,Maths,Science,Computer,Social,2nd language
-7,English,Maths,Science,Computer,Social,2nd language
-6,English,Maths,Science,Computer,Social,2nd language
