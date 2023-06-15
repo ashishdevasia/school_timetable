@@ -1,9 +1,2 @@
-Teachers Name,Subject 1,Class 1,Subject 1,Class 2,Subject 2,Class 1,Subject 2,Class 2,Subject 3,Class 3
-Ms. A,2nd language,10,2nd language,9,2nd language,8,2nd language,7,2nd language,6
-Mr. B,Computer,10,Computer,9,Computer,8,Computer,7,Computer,6,Maths,10,Maths,9,Maths,8,Maths,7,Maths,6
-Mrs. C,English,10,English,9,English,8
-Mr. D,Social,6,Social,7,Social,8,Social,9
-Ms. E,Physics,10,Physics,9,Science,8,Science,7,Science,6
-Mrs. F,Biology,10,Biology,9,Science,8,Science,7,Science,6
-Mr. G,Maths,10,Maths,9,Maths,8,Maths,7,Maths,6
-Ms. H,Social,6,Social,7,Social,8,Social,9,Social,10,English,6,English,7
+Mr A,English,1,English,2,Play,1,Play,2,Play,3
+Mr B,Maths,1,Maths,2,Maths,3
